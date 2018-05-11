@@ -27,5 +27,6 @@ To gain full benefit from this plug-in your language should be set to Japanese.
 TODO
 ----
 
+[X] Make the plugin GDPR compliant. 11th May 2018.
 [ ] Write these instructions in Japanese so that the targeted audience knows what to do.
 [ ] Update the requires version to the 2.6.1 version number.

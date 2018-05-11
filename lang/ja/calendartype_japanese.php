@@ -40,3 +40,4 @@ $string['taishou'] = '大正{$a}年';
 $string['taishouhandover'] = '大正{$a->old}年 - 昭和{$a->new}年';
 $string['day'] = '日';
 $string['year'] = '年';
+$string['privacy:metadata'] = '-';

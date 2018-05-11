@@ -40,3 +40,4 @@ $string['taishou'] = 'Taishou year {$a}';
 $string['taishouhandover'] = 'Taishou year {$a->old} - Shouwa year {$a->new}';
 $string['day'] = '';
 $string['year'] = 'year';
+$string['privacy:metadata'] = '-';
